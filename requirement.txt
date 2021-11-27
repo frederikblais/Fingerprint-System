@@ -1,0 +1,4 @@
+Pillow==8.4.0
+pkg-resources==0.0.0
+pyfingerprint==1.5
+pyserial==3.5
